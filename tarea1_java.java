@@ -1,3 +1,4 @@
+//Para un conjunto de 5 numeros, convertirlos en uno solo
 import java.util.Scanner;
 
 public class tarea1 {
